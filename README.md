@@ -1,6 +1,6 @@
 # Implementation of  Transition-based Model for Chinese Information Extraction
 
-We provide sample sentences from GENIA for illustration.
+We provide sample sentences from ACE05 for illustration.
 Requirement: PyTorch (tested on 0.4), Python(v3)
 
 ## Setup
