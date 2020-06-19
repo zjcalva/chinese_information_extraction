@@ -1,7 +1,12 @@
 # Implementation of  Transition-based Model for Chinese Information Extraction
 
-We provide sample sentences from ACE05 for illustration.
-For full data, please refer to https://catalog.ldc.upenn.edu/ldc2006t06
+We provide sample sentences from ACE05 for illustration purposes.
+
+To reproduce our study, replace the 'test_sample.txt' file with full dataset.
+
+Please refer to https://catalog.ldc.upenn.edu/ldc2006t06 for the full dataset acquirement.
+
+
 Requirement: PyTorch (tested on 0.4), Python(v3)
 
 ## Setup
